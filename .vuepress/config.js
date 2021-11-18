@@ -20,8 +20,7 @@ module.exports = {
   ],
   "theme": "reco",			//vuepress挂载的主题
   "themeConfig": {
-    //导航栏配置text:导航标题内容，icon：图标样式
-    "subSidebar": 'auto',
+    //导航栏配置
     "nav": [
       {
         "text": "主页",
@@ -51,13 +50,14 @@ module.exports = {
         "text": "Contact",
         "icon": "reco-message",
         "items": [
-          { "text": "GitHub", "link": "https://github.com/AlanCorn", "icon": "reco-github" },
+          { "text": "GitHub", "link": "https://github.com/AlanCorn/AlanCorn.github.io", "icon": "reco-github" },
           { text: '哔哩哔哩', link: 'https://space.bilibili.com/57355517', icon: 'reco-bilibili' },
           { text: 'Twitter', link: 'https://twitter.com/AlanCorn_02', icon: 'reco-twitter' }
         ]
       }
     ],
     //侧栏配置
+    "subSidebar": 'auto',
     "sidebar": {
       "/docs/theme-reco/": [
         "",
@@ -78,9 +78,12 @@ module.exports = {
         "text": "标签"
       },
       socialLinks: [     // 信息栏展示社交信息
-        { icon: 'reco-github', link: 'https://github.com/AlanCorn' },
-        { icon: 'reco-bilibili', link: 'https://space.bilibili.com/57355517', },
-        { icon: 'reco-twitter', link: 'https://twitter.com/AlanCorn_02' }
+        { icon: 'fa-github', link: 'https://github.com/AlanCorn' },
+        //{ icon: 'reco-bilibili', link: 'https://space.bilibili.com/57355517' },
+        { icon: 'fa-twitter', link: 'https://twitter.com/AlanCorn_02' },
+        { icon: 'fa-telegram', link: 'https://t.me/AlanCorn_02' },
+        { icon: 'fa-spotify', link: 'https://open.spotify.com/user/zc33qvecqt4zrfnpy85bdkxl9' },
+        //{ icon: 'fa-envelope', link: 'https://www.bing.com/search?q=AlanCorn_02@foxmail.com' }
       ]
     },
     //友情链接
