@@ -1,13 +1,13 @@
 module.exports = {
   "title": "AlanCorn's Blog",		//博客标题
   "description": "'A simple personal blog build with vuepress-theme-reco",		//描述
-  "dest": "public",			//部署时的输出文件夹
+  "dest": "docs",			//部署时的输出文件夹
   "head": [
     [
       "link",
       {
         "rel": "icon",
-        "href": "/favicon-16x16.png"		//图标
+        "href": "/favicon.ico"		//图标
       }
     ],
     [
