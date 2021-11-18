@@ -107,7 +107,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "AlanCorn_02",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    //"record": "xxxx",备案号
     "startYear": "2021"
   },
   "markdown": {

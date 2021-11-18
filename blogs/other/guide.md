@@ -4,7 +4,7 @@ date: 2019-04-09
 tags:
  - theme
 categories:
- - 个人配置
+ - other
 ---
 
 ![vuepress](https://img.shields.io/badge/vuepress-0.14.8-brightgreen.svg)
