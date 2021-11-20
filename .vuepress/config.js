@@ -56,7 +56,7 @@ module.exports = {
         ]
       }
     ],
-    //侧栏配置
+    //子侧边栏配置
     "subSidebar": 'auto',
     "sidebar": {
       "/docs/theme-reco/": [
@@ -99,8 +99,16 @@ module.exports = {
         "desc": "A simple and beautiful vuepress Blog & Doc theme.",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
-      }
+      },
     ],
+    //评论区设置
+    "valineConfig": {
+      appId: 'W4etSMmQ8kOOJBaclLWpmKCC-gzGzoHsz',// your appId
+      appKey: 'pnVhrKPzvpnn9AtzYkKdffmv', // your appKey
+    },
+    //代码主题
+    //"codeTheme": 'solarizedlight',
+    //其他
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
@@ -108,7 +116,9 @@ module.exports = {
     "author": "AlanCorn_02",
     "authorAvatar": "/avatar.png",
     //"record": "xxxx",备案号
-    "startYear": "2021"
+    "startYear": "2021",
+    //404腾讯公益
+    "noFoundPageByTencent": false
   },
   "markdown": {
     "lineNumbers": true

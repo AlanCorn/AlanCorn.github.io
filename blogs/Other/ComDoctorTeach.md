@@ -2,8 +2,9 @@
 title: 电脑医院 计算机知识科普文案
 date: 2021-11-05
 categories:
- - other
-publish: false
+ - 其他
+keys: 
+ - 'dbd6d04a498427695f9502ff63021fc9' 
 ---
 
 
@@ -27,7 +28,7 @@ publish: false
 
  **主存储器（内存）：**存储CPU需要读取的数据.[^1]
 
-![image-20211104184401897](/home/alancorn/Documents/Markdown/电脑医院/计算机基础知识.assets/image-20211104184401897.png)
+![image-20211104184401897](./ComDoctorTeach.assets/image-20211104184401897.png)
 
 [^1]:  拓展资料：[内存操作系统](https://baike.baidu.com/item/%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2463725)，开机后将系统读取到内存中，系统完全依赖于内存和CPU运行，比较接近生活的案例是网吧
 
@@ -46,7 +47,7 @@ publish: false
 ### **核心数**
 就是物理核心数，多少核就是多少核。
 
-![IMG_20211105_084748.jpg](/home/alancorn/Documents/Markdown/电脑医院/计算机基础知识.assets/IMG_20211105_084748.jpg)
+![IMG_20211105_084748.jpg](./ComDoctorTeach.assets/IMG_20211105_084748.jpg)
 
 ### **线程数**
 不少CPU都有“超线程”技术，所谓超线程，就是一种提高核心利用率的方式，简而言之就是能将**一个物理核心虚拟成两个线程**。
@@ -60,7 +61,7 @@ publish: false
 ### **制程**
 指IC内电路与电路之间的距离，一般来说，制程越先进，数值越小，比如10nm比14nm更先进。
 
-![image-20211105082459084](/home/alancorn/Documents/Markdown/电脑医院/计算机基础知识.assets/image-20211105082459084.png)
+![image-20211105082459084](./ComDoctorTeach.assets/image-20211105082459084.png)
 
 [^2]: 64 位的个人计算机 CPU 又被统称为 x86_64 的架构
 ## 四、拓展
