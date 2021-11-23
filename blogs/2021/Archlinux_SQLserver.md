@@ -63,4 +63,4 @@ Password填入刚刚初始化时设置的密码
 ![LocalInstanceConnect](./Archlinux_SQLserver.assets/LocalInstanceConnect.png)
 
 ## 开始学习吧！
-[Azure SQL 文档](https://docs.microsoft.com/zh-cn/azure/azure-sql)
+[Azure Data Studio文档](https://docs.microsoft.com/zh-cn/sql/azure-data-studio/?view=sql-server-ver15)
