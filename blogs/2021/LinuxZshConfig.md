@@ -32,16 +32,14 @@ oh-my-zsh是github下一个社区驱动的开源项目，目前在github已有13
 
 1. **下载zsh**
 
-   - Ubuntu/Debian/...：```sudo apt-get install zsh```
-   - CentOS/RedHat/...：```sudo yum install -y zsh```
-   - Archlinux/Manjaro/...:``` sudo pacman -S zsh```
-
+   - Ubuntu/Debian/...：``sudo apt-get install zsh``
+   - CentOS/RedHat/...：``sudo yum install -y zsh``
+   - Archlinux/Manjaro/...:`` sudo pacman -S zsh``
 2. **安装oh-my-zsh**
 
    ```shell
    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
    ```
-
 3. **基本配置(~/.zshrc)**
 
    ```shell
@@ -53,15 +51,14 @@ oh-my-zsh是github下一个社区驱动的开源项目，目前在github已有13
 
       前往 [ohmyzshWikiThemes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) 获取想要的主题
 
-      在.zshrc文件中找到```ZSH_THEME="agnoster"``` 一行进行编辑
+      在.zshrc文件中找到 ``ZSH_THEME="agnoster"`` 一行进行编辑
 
-      ```shell	
+      ```shell
       #默认主题
       #ZSH_THEME="robbyrussell"
       #更改为在上述wiki页面中心仪的主题，如我个人用的agnoster
       ZSH_THEME="agnoster"
       ```
-
    2. 添加插件
 
       - 另开一个终端，安装两个第三方插件
@@ -73,15 +70,13 @@ oh-my-zsh是github下一个社区驱动的开源项目，目前在github已有13
         ```
 
         zsh-syntax-highlighting插件，会将输错的命令用红色字体高亮显示
-        
+
         ```shell
         git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
         ```
-        
-        
-      
+
       接着修改.zshrc文件中的plugins配置
-      
+
       ```shell
       plugins=(
       	git       #git相关的命令别名
