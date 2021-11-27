@@ -53,7 +53,7 @@ elector {property: value}
 
 ## 盒子模型
 
-![模型示意图](./CSS.assets/2021-07-13-19-31-58.png)
+![模型示意图](./image/CSS.md/2021-07-13-19-31-58.png)
 
 ## CSS边框
 

@@ -60,7 +60,7 @@ yay -S azuredatastudio-bin
 Server填入localhost或者主机IP  
 User name填入SA（数据库管理员）  
 Password填入刚刚初始化时设置的密码  
-![LocalInstanceConnect](./Archlinux_SQLserver.assets/LocalInstanceConnect.png)
+![LocalInstanceConnect](./image/Archlinux_SQLserver.md/LocalInstanceConnect.png)
 
 ## 开始学习吧！
 [Azure Data Studio文档](https://docs.microsoft.com/zh-cn/sql/azure-data-studio/?view=sql-server-ver15)

@@ -43,7 +43,7 @@ categories:
   2. 不同压制组发布的版本码率不同，它们在画质、色彩上有细微差异，为追求最佳观赏体验，可以在搜索时添加偏爱的压制组关键词  
 - 通过以上方法我们能迅速找到合适的搜索结果  
   优秀示范：
-![](./AnimeSearch.assets/2021-11-27-19-15-31.png)
+![](./image/AnimeSearch.md/2021-11-27-19-15-31.png)
 
 # 三、关于种子下载
 ## 请不要使用迅雷
@@ -58,8 +58,8 @@ categories:
 选择支持外挂字幕，解码器新的播放器即可，以下为主观推荐
 1. [VLC](https://www.videolan.org/vlc/index.zh-TW.html)
 我用得最多的播放器，开源软件，跨平台
-![](./AnimeSearch.assets/2021-11-27-20-24-02.png)
-2. [MPV](https://mpv.io/)
+![](./image/AnimeSearch.md/2021-11-27-20-24-02.png)
+1. [MPV](https://mpv.io/)
 另一款非常不错的播放器，开源软件，跨平台
 3. [PotPlayer](http://potplayer.tv/?lang=zh_TW)
 很多视频博主都推荐的一款播放器，不过在大陆应该是没有官方下载渠道的

@@ -146,7 +146,7 @@ HTML 是用来描述网页的一种语言。
 ```
 
 **效果**
-![效果](./HTML5.assets/2021-07-13-13-41-21.png)
+![效果](./image/HTML5.md/2021-07-13-13-41-21.png)
 
 ### 删除线效果
 
@@ -249,7 +249,7 @@ public class HelloWorld {
 ```
 
 **效果**  
-![效果](./HTML5.assets/2021-07-13-10-55-10.png)
+![效果](./image/HTML5.md/2021-07-13-10-55-10.png)
 
 #### td的属性rowspan
 
@@ -270,7 +270,7 @@ public class HelloWorld {
 ```
 
 **效果**  
-![效果2](./HTML5.assets/2021-07-13-10-57-54.png)
+![效果2](./image/HTML5.md/2021-07-13-10-57-54.png)
 
 ### 列表
 
@@ -313,7 +313,7 @@ public class HelloWorld {
 ```
 
 **效果**  
-![效果](./HTML5.assets/2021-07-13-13-46-18.png)
+![效果](./image/HTML5.md/2021-07-13-13-46-18.png)
 
 ## 块元素与内联元素
 

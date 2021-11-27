@@ -26,7 +26,7 @@ categories:
 
 oh-my-zsh是github下一个社区驱动的开源项目，目前在github已有136k的star，通过oh-my-zsh，你能更轻易地进行配置zsh以及对zsh插件的管理。
 
-![image-20211101234203938](./Zsh.assets/image-20211101234203938.png)
+![image-20211101234203938](./image/LinuxZshConfig.md/image-20211101234203938.png)
 
 ### 上手使用zsh&oh-my-zsh
 

@@ -43,8 +43,13 @@ module.exports = {
           {
             "text": "VuePress-reco",
             "link": "https://vuepress-theme-reco.recoluan.com/"
-          }
+          },
         ]
+      },
+      {
+        "text": "关于",
+        "icon": "reco-message",
+        "link": "/blogs/Other/About.md"
       },
       {
         "text": "Contact",
