@@ -11,15 +11,17 @@ categories:
 ## 发布站
   1. [NC-Raws](https://nc.raws.dev/0:/)：种子速度快，且没被墙，缺点是搜索引擎有点拉垮，以及只有近几年的新番
   2. [Nyaa](https://nyaa.si/)：很不错的发布站，资源很全，力荐
-  3. [动漫花园](https://share.dmhy.org/)(墙)：历史悠久的发布站，资源非常全，一些找不到的老番可以在这找找
+  3. [动漫花园](https://share.dmhy.org/)：历史悠久的发布站，资源非常全，一些找不到的老番可以在这找找
   4. [萌番組](https://bangumi.moe/)：在写文档的时候才知道Bangumi也有一个发布站
   5. [Google](https://google.com/)
   6. ...
 ## 字幕站
   一些情况下，我们只能找到生肉资源，或者需要双语字幕/特效字幕，这时候我们可以寻找单独的字幕文件，但外挂字幕字幕轨不一定与你的画面源相吻合，这时候会出现声画与字幕不统一的问题，所以一般推荐使用发布站上字幕组直接提供的字幕
-  1. [FanSub](https://www.zhengmianshang.me/)
-  2. [Google](https://google.com/)
-  3. ...
+  1. [VCB-S](https://bbs.acgrip.com/)
+  2. [射手网（伪）](https://assrt.net/)
+  3. [FanSub](https://www.zhengmianshang.me/)
+  4. [Google](https://google.com/)
+  5. ...
 ## 其他
 - 新番列表
   1. [YuC's AnimeList](https://yuc.wiki/)
