@@ -65,6 +65,7 @@ module.exports = {
     "startYear": "2021",
     //404腾讯公益
     "noFoundPageByTencent": false,
+    "lastUpdated": "最近修改：",
     //导航栏配置
     nav,
     //sidebar,
