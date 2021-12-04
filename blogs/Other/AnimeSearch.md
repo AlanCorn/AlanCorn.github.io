@@ -46,6 +46,16 @@ categories:
 - 通过以上方法我们能迅速找到合适的搜索结果  
   优秀示范：
 ![](./image/AnimeSearch.md/2021-11-27-19-15-31.png)
+## 使用RSS订阅
+![](./image/AnimeSearch.md/2021-12-03-12-59-11.png)
+RSS是一个让上网变得更效率的工具，，它能让你在番剧更新的时候，不必再去动漫花园(举例来说)重复输入关键词再筛选这一步骤，而是可以直接通过RSS订阅获取最新的发布信息。
+1. 获取RSS订阅链接
+在动漫花园检索结果的右上角部分可以找到RSS订阅链(要先使用搜索引擎完成搜索之后再)，我们右键复制链接地址
+![](./image/AnimeSearch.md/2021-11-27-19-15-31copy.png)
+2. 添加订阅链接至RSS阅读器
+![](image/AnimeSearch.md/2021-12-04-18-01-19.png)
+自行选择支持添加订阅链接的RSS阅读器即可，我使用的是开源跨平台的[Fluent Reader](https://www.electronjs.org/apps/fluent-reader)  
+![](image/AnimeSearch.md/2021-12-04-18-06-37.png)
 
 # 三、关于种子下载
 ## 请不要使用迅雷
