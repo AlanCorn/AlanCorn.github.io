@@ -43,6 +43,7 @@ module.exports = {
         { icon: 'fa-twitter', link: 'https://twitter.com/AlanCorn_02' },
         { icon: 'fa-telegram', link: 'https://t.me/AlanCorn_02' },
         { icon: 'fa-spotify', link: 'https://open.spotify.com/user/zc33qvecqt4zrfnpy85bdkxl9' },
+        { icon: 'fa-rss', link: 'https://alancorn.github.io/rss.xml' }
         //{ icon: 'fa-envelope', link: 'https://www.bing.com/search?q=AlanCorn_02@foxmail.com' }
       ]
     },
