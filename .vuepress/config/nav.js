@@ -29,6 +29,11 @@ module.exports = [
     "link": "/blogs/Other/About.md"
   },
   {
+    "text": "Music",
+    "icon": "fa-spotify",
+    "link": "/blogs/Other/JustMisic.md"
+  },
+  {
     "text": "Contact",
     "icon": "reco-message",
     "items": [
