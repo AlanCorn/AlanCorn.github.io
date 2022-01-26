@@ -10,7 +10,7 @@ publish: false
 # 关于本网站
 本网站的性质是个人博客网站
 使用[Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)部署  
-使用了[Vue Press](https://vuepress.vuejs.org/zh/)和[vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)主题生成HTML文件  
+使用了[Vue Press](https://vuepress.vuejs.org/zh/)和[vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)主题生成静态HTML页面  
 网站源代码：[AlanCorn.github.io](https://github.com/AlanCorn/AlanCorn.github.io)
 # 关于我自己
 我是一名就读于杭州的大学生，专业是计算机科学与技术。  
