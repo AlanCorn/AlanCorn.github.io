@@ -15,6 +15,8 @@ categories:
 ![](./image/GamingWithWine.md/2022-01-30-15-17-17.png)
 2. 在[ProtonDB](https://www.protondb.com/)上查看游戏使用Proton的运行情况，黄金以上评级即可玩，同时可以留意评论区，会有大佬提供一些启动参数，可能解决一些问题。
 3. 有些时候一些DLC需要通过`Win+R`输入`steam://install/1777410`或者`steam://run/1777410`等方式进行安装，但我们知道只有Windows才有这玩意，这时候我们只需要将`https://store.steampowered.com/widget/1777410`(注意数字部分)输入浏览器地址栏，点击安装即可，这时候应该会打开你的Steam并开始下载
+> 更新于2月15日
+> 经过测试，一些锁区的免费游戏也是可以通过这个方式入库
 ## 二、EPIC
 推荐使用开箱即用的[Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)，与Proton共用一个数据库
 ## 三、Wine
