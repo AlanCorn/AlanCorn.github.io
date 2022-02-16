@@ -40,3 +40,10 @@ alsa-firmware 软件包包含了某些声卡（如创新SB0400 Audigy2）可能�
 `onlyoffice`
 `typora`
 `gnome-keyring`
+
+# 四、其他
+
+1. vi/nano链接到vim，一些东西默认使用vi或者nano,直接软链接解决所有问题
+```shell
+ln -s /usr/bin/vim /usr/bin/vi 
+```
