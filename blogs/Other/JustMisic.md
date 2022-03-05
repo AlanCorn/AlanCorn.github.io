@@ -4,6 +4,9 @@ publish: false
 ---
 > 一些简单的音乐分享，曲源来自Spotify
 
+## 明日方舟危机合约主题曲  
+<iframe src="https://open.spotify.com/embed/playlist/4LnITDnYJOVtzStmTARFfJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 ## 最近迷上的东方曲
 东方曲和MuseDash的联动超赞，东方曲真是宝藏！
 
@@ -20,7 +23,7 @@ publish: false
 
 <iframe src="https://open.spotify.com/embed/track/04Gck6fVRs2rgxcdN8UrRY?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><iframe src="https://open.spotify.com/embed/track/0ImG7bEm14b2tvUcEnnQEf?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-## 番剧
+## 其他
 
 <iframe src="https://open.spotify.com/embed/track/5cRKj1kynNFqiliT2ndZ3y?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <iframe src="https://open.spotify.com/embed/track/3KhwEuqLNjHfsKaBDo1yVh?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
