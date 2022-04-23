@@ -40,7 +40,8 @@ module.exports = [
       { "text": "GitHub", "link": "https://github.com/AlanCorn/AlanCorn.github.io", "icon": "reco-github" },
       { text: '哔哩哔哩', link: 'https://space.bilibili.com/57355517', icon: 'reco-bilibili' },
       { text: 'Twitter', link: 'https://twitter.com/AlanCorn_02', icon: 'reco-twitter' },
-      { text: 'RSS', link: 'https://alancorn.github.io/rss.xml', icon: 'reco-rss' }
+      { text: 'RSS', link: 'https://alancorn.github.io/rss.xml', icon: 'reco-rss' },
+      { text: 'Steam', icon: 'fa-steam', link: "https://steamcommunity.com/id/AlanCorn_02/" },
     ]
   }
 ]
