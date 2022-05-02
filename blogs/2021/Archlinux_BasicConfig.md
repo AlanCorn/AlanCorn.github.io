@@ -40,6 +40,7 @@ alsa-firmware 软件包包含了某些声卡（如创新SB0400 Audigy2）可能�
 `onlyoffice`
 `typora`
 `gnome-keyring`
+`tldr`
 
 # 四、其他
 
