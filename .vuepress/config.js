@@ -4,7 +4,7 @@ const friendLink = require('./config/friendLink')
 
 module.exports = {
   "title": "AlanCorn's Blog",		//博客标题
-  "description": "'A simple personal blog build with vuepress-theme-reco",		//描述
+  "description": "欢迎光顾AlanCorn的个人博客",		//描述
   "dest": "docs",			//部署时的输出文件夹
   "head": [
     [

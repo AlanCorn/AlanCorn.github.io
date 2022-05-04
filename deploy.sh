@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/alancorn/Documents/Repository/AlanCorn.github.io
+cd /home/alancorn/Documents/Repository/AlanCorn.github.io || exit
 
 npm run build
 

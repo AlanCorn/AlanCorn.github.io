@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: AlanCorn' Blog
-tagline: Studying,Coding and Develop
-# heroImage: /hero.png
+
+# (tagline: "")
 # heroImageStyle: {
 #   maxWidth: '600px',
 #   width: '100%',
