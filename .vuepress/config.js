@@ -4,7 +4,7 @@ const friendLink = require('./config/friendLink')
 
 module.exports = {
   "title": "AlanCorn's Blog",		//博客标题
-  "description": "欢迎光顾AlanCorn的个人博客",		//描述
+  "description": "欢迎光顾 🍬AlanCorn 的个人博客🥰",	//描述
   "dest": "docs",			//部署时的输出文件夹
   "head": [
     [
@@ -42,8 +42,9 @@ module.exports = {
         //{ icon: 'reco-bilibili', link: 'https://space.bilibili.com/57355517' },
         { icon: 'fa-twitter', link: 'https://twitter.com/AlanCorn_02' },
         { icon: 'fa-telegram', link: 'https://t.me/AlanCorn_02' },
-        { icon: 'fa-spotify', link: 'https://open.spotify.com/user/zc33qvecqt4zrfnpy85bdkxl9' },
-        { icon: 'fa-steam', link: "/blogs/Other/Steam" },
+        { icon: 'fa-spotify', link: 'https://open.spotify.com/user/31fvtg35xvb3hcwyzvpcsi2evp6i?si=6c41da6cb47f4ac2' },
+        { icon: 'fa-steam', link: "/blogs/Other/Steam" }, 
+        // { icon: 'fa-bullhorn', link: "https://t.me/s/AlanCorn_Share" }
         //{ icon: 'fa-rss', link: 'https://alancorn.github.io/rss.xml' },
         { icon: 'fa-envelope', link: '/blogs/Other/Envelope' }
       ]

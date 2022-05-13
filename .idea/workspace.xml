@@ -5,157 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="371e4b62-be46-4786-8042-a3da307844bf" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/css/0.styles.9cfe8b0a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-07-13-13-46-18.a22df050.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-07-13-19-31-58.71b1b457.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-07-16-09-23-58.1448d5bc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-07-16-09-30-23.352589b0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-11-27-19-15-31.d50e0ddd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-11-27-19-15-31copy.68e95533.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-11-27-20-24-02.4948f7df.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-11-27-23-03-21.3c1b786b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-12-03-12-59-11.66cebd97.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2021-12-04-18-06-37.df708f2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-01-30-15-17-17.4c8fd715.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-01-30-15-54-15.e3dac7c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-09-13-22-57.f217efe3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-09-13-33-17.5f60b772.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-17-19-02-52.be40ebf9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-17-19-11-13.8272217b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-17-19-14-29.87d8ebd8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-17-19-17-47.9b2c7985.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-17-19-22-35.e8b2052a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-17-19-35-29.33f0bbee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-02-17-19-52-37.4fa579c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-14-32-18.ee12c853.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-14-44-55.bee218d2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-14-51-00.7f723d91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-15-09-37.d0afbffc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-15-24-24.e363f2cd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-15-28-33.7fa8c7dd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-15-33-33.2d4007fd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-15-42-35.2f8d4da4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-23-15-45-10.5de75ac0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-04-30-16-05-29.b47d57be.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-05-02-13-29-48.f8ff0b90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-05-02-13-30-36.bb15c033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-05-02-15-08-13.6db5c91e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/2022-05-02-15-08-33.93462065.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/IMG_20211105_084748.5ac1a490.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/LocalInstanceConnect.ca3191c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/bg.2cfdbb33.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/image-20211101234203938.47447f58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/image-20211104184401897.c6ab5444.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/image-20211105082459084.65cc20dd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/1.83c72317.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/10.26fe2177.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/11.4676af78.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/12.c195ae4a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/13.0f58288c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/14.a3772719.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/15.4db897ae.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/16.49e900f8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/17.f910800a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/18.edd24e03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/19.03df5478.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/20.fe836a04.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/21.07fb5794.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/22.097c5809.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/23.e826536a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/24.63e9af7e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/25.66981a8c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/26.8092fab5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/27.07f24ff3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/28.5bfe93fd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/29.8023f9da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/3.353ff2cf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/30.a5f704d7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/31.a19eda9d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/32.5c77ae4a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/33.3e6baac9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/34.3d5d6fd2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/35.f9a4d372.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/4.09ca7189.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/5.0eedddcd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/6.ca80c05e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/7.b3167d55.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/8.1640596f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/9.21b7d8cb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/app.8e5e29b5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/Archlinux_BasicConfig.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/Archlinux_SQLserver.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/GCHomework_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/GCHomework_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/GitSSHkeys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/GitStatus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/IDEAfixFcitx5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/LinuxZshConfig.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2021/Linux_KeychronKeyboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2022/GamingWithWine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2022/JSpromise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2022/LinuxFishConfig.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/2022/WindowsOnUSB.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Other/About.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Other/AnimeSearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Other/Azurulan2021.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Other/ComDoctorTeach.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Other/Envelope.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Other/JustMisic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Other/Steam.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Study/CSS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Study/Git.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Study/HTML5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blogs/Study/JavaScript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/个人配置/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/其他/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/学习笔记/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/问题记录/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/font/江西拙楷.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/rss.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Anime/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/ArchLinux/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Archlinux/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/CSS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Fcitx/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Git/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/HTML5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/IDEA/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/JavaScript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/KDE/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Linux/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/SSH/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Solutions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Steam/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Translate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/VirtualBox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Windows/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Wine/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/async/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/fish/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/oh-my-fish/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/oh-my-zsh/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/zsh/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/前端/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/templates/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/timeline/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patch-package-error.json.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/theme-reco/HomeBlog/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/font.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/theme-reco/HomeBlog/font/江西拙楷.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/fonts/江西拙楷.307fbef9.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/theme-reco/HomeBlog/hock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/theme-reco/HomeBlog/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,26 +30,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/alancorn/Documents/Repository/AlanCorn.github.io/node_modules/vuepress-theme-reco/components",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "ts.external.directory.path": "/opt/intellij-idea-ultimate-edition/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alancorn/Documents/Repository/AlanCorn.github.io/node_modules/vuepress-theme-reco/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/opt/intellij-idea-ultimate-edition/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/node_modules/vuepress-theme-reco/components" />
@@ -217,6 +68,10 @@
       <updated>1651644993475</updated>
       <workItem from="1651644998093" duration="9433000" />
       <workItem from="1651654642001" duration="880000" />
+      <workItem from="1651655586844" duration="327000" />
+      <workItem from="1651745079240" duration="527000" />
+      <workItem from="1651745677921" duration="804000" />
+      <workItem from="1651747506472" duration="57000" />
     </task>
     <servers />
   </component>

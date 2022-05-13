@@ -29,6 +29,12 @@ module.exports = [
     "link": "/blogs/Other/About.md"
   },
   {
+    
+    "text": "频道",
+    "icon": "reco-tongzhi",
+    "link": "https://t.me/s/AlanCorn_Share"
+  },
+  {
     "text": "Music",
     "icon": "fa-spotify",
     "link": "/blogs/Other/JustMisic.md"
@@ -38,10 +44,11 @@ module.exports = [
     "icon": "reco-message",
     "items": [
       { "text": "GitHub", "link": "https://github.com/AlanCorn/AlanCorn.github.io", "icon": "reco-github" },
-      { text: '哔哩哔哩', link: 'https://space.bilibili.com/57355517', icon: 'reco-bilibili' },
-      { text: 'Twitter', link: 'https://twitter.com/AlanCorn_02', icon: 'reco-twitter' },
-      { text: 'RSS', link: 'https://alancorn.github.io/rss.xml', icon: 'reco-rss' },
-      { text: 'Steam', icon: 'fa-steam', link: "https://steamcommunity.com/id/AlanCorn_02/" },
+      { "text": "哔哩哔哩", "link": "https://space.bilibili.com/57355517", "icon": "reco-bilibili" },
+      { "text": "Twitter", "link": "https://twitter.com/AlanCorn_02", "icon": "reco-twitter" },
+      { "text": "RSS", "link": "https://alancorn.github.io/rss.xml", "icon": "reco-rss" },
+      { "text": "Steam", "link": "https://steamcommunity.com/id/AlanCorn_02/", "icon": "fa-steam" },
+      { "text": "E-Mail", "link": "/blogs/Other/Envelope", "icon": "fa-envelope" },
     ]
   }
 ]
