@@ -87,7 +87,7 @@ let p2 = Promise.resolve("OK")
 let p3 = Promise.resolve("Yes")
 const results = Promise.all([p1,p2,p3])
 ```
-
+> 例如：一些场景下上传图片需要一张一张传，但你需要同时确保所有图片都上传成功后再执行某项操作，这时候要想起来“Promise.all()”
 ### **8. Promise.race()**
 
 可以传入一个promise数组，返回最快完成的promise的结果
