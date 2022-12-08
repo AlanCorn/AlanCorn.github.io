@@ -34,7 +34,7 @@ paru -S jbr-linux-x64
 
 大部分的CSDN上的教程都采用直接覆盖默认的Java Runtime目录，但实际上有更简单保险的操作  
 在IDE中打开一个项目，双击```Shift```打开搜索面板，输入```java```搜索
-![](./image/JBRinLinux.md/2022-08-19-08-23-13.png)
+![](./image/JBRinLinux.md/2022-08-19-08-23-13.png)  
 将Java Runtime改为```/opt/jbr-linux-x64```即可  
 ![](./image/JBRinLinux.md/2022-08-19-08-27-20.png)
 
