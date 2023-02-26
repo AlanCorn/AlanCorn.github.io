@@ -5,6 +5,7 @@ import recoTheme from "vuepress-theme-reco";
 export default defineUserConfig({
   title: "AlanCorn's Blog", //博客标题
   description: "欢迎光顾 🍬AlanCorn 的个人博客🥰", //描述
+  dest: "dist", //部署时的输出文件夹
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
