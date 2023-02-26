@@ -5,7 +5,7 @@ const friendLink = require('./config/friendLink')
 module.exports = {
   "title": "AlanCorn's Blog",		//博客标题
   "description": "欢迎光顾 🍬AlanCorn 的个人博客🥰",	//描述
-  "dest": "docs",			//部署时的输出文件夹
+  "dest": "dist",			//部署时的输出文件夹
   "head": [
     [
       "link",
@@ -60,8 +60,8 @@ module.exports = {
     //其他
     "logo": "/logo.png",
     "search": true,
+    
     "searchMaxSuggestions": 10,
-    "lastUpdated": "Last Updated",
     "author": "AlanCorn_02",
     "authorAvatar": "/avatar.png",
     //"record": "xxxx",备案号

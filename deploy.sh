@@ -1,8 +1,14 @@
-#!/bin/bash
+#!/bin/fish
 cd /home/alancorn/Documents/Repository/AlanCorn.github.io || exit
-
+nvm use
+yarn install
 yarn build
 
-git add docs
+cd dist
+git init 
+git branch -m static
+git remote add origin https://github.com/AlanCorn/AlanCorn.github.io.git
+
+git add *
 git commit -m ":rocket: deploy"
-git push origin main
+git push origin static --force
