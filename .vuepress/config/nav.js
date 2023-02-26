@@ -34,10 +34,15 @@ module.exports = [
     "icon": "reco-tongzhi",
     "link": "https://t.me/s/AlanCorn_Share"
   },
+  // {
+  //   "text": "Music",
+  //   "icon": "fa-spotify",
+  //   "link": "/blogs/Other/JustMisic.md"
+  // },
   {
-    "text": "Music",
-    "icon": "fa-spotify",
-    "link": "/blogs/Other/JustMisic.md"
+    "text": "收藏夹",
+    "icon": "fa-star-o",
+    "link": "/blogs/Other/Star.md"
   },
   {
     "text": "Contact",
