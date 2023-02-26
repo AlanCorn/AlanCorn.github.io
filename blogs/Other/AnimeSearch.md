@@ -53,7 +53,7 @@ RSS是一个让上网变得更效率的工具，，它能让你在番剧更新�
 在动漫花园检索结果的右上角部分可以找到RSS订阅链(要先使用搜索引擎完成搜索之后再)，我们右键复制链接地址
 ![](./image/AnimeSearch.md/2021-11-27-19-15-31copy.png)
 2. 添加订阅链接至RSS阅读器
-![](image/AnimeSearch.md/2021-12-04-18-01-19.png)
+![](./image/AnimeSearch.md/2021-12-04-18-01-19.png)
 自行选择支持添加订阅链接的RSS阅读器即可，我使用的是开源跨平台的[Fluent Reader](https://www.electronjs.org/apps/fluent-reader)  
 ![](./image/AnimeSearch.md/2021-12-04-18-06-37.png)
 
