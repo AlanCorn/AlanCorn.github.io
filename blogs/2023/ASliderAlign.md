@@ -18,7 +18,7 @@ categories:
 3. 去除滑块的蓝色投影
 
 原始效果：  
-![](./image/ASliderAlign.md/2023-10-12-10-41-52.png)
+![](./image/ASliderAlign.md/Snipaste_2023-10-12_10-38-59.png)
 
 最终效果：  
 ![](./image/ASliderAlign.md/2023-10-12-10-37-48.png)
