@@ -1,7 +1,7 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
 
-name: Node.js CI
+name: AlanCorn.github.io
 
 on:
   push:
@@ -20,25 +20,30 @@ jobs:
 
     steps:
     - name: Checkout Repository
-    - uses: actions/checkout@v3
+      uses: actions/checkout@v3
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
     - name: Install Dependencies
-      run: ｜
-          npm install yarn -g
-          yarn install
+      run: |
+        npm install yarn -g
+        yarn install
     - name: Build VuePress
       run: yarn build  # 使用你的构建命令
 
     - name: Deploy to GitHub Pages
       run: |
-        git config --global user.email "actions@github.com"
-        git config --global user.name "GitHub Actions"
-        git add .
-        git commit -m "Deploy VuePress to GitHub Pages"
-        git push -f origin main:gh-pages
+        git config --global user.email "1561206831@qq.com"
+        git config --global user.name "AlanCorn_02"
+        cd dist
+        git init 
+        git branch -m static
+        git remote add origin https://{username}:{password}@github.com/{username}/AlanCorn.github.io.git
+
+        git add *
+        git commit -m ":rocket:Deploy VuePress to GitHub Pages"
+        git push origin static --force
 
     - name: Deploy Complete
       run: |
