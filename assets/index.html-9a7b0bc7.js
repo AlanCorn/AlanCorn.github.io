@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-05e906f0","path":"/tags/VirtualBox/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};
