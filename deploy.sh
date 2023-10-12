@@ -1,5 +1,4 @@
-#!/bin/fish
-cd /home/alancorn/Documents/Repository/AlanCorn.github.io || exit
+# cd /home/alancorn/Documents/Repository/AlanCorn.github.io || exit
 nvm use
 yarn install
 yarn build
